@@ -351,13 +351,13 @@
 }
 @keyframes move {
   0% {
-    left: 0%;
+    left: -10%;
   }
   50% {
     left: 100%;
   }
   100% {
-    left: 0%;
+    left: -10%;
   }
 }
 .bod1 {
