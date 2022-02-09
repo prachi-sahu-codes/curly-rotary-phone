@@ -227,17 +227,17 @@
   background-color: rgb(250, 87, 37);
   transform: skewX(43deg);
 }
-/* .roof0 {
+.roof0 {
   position: absolute;
   top: 53%;
-  left: 95.9%;
+  left: 86%;
   width: 41px;
   height: 110px;
   background-color: rgb(250, 87, 37);
-  transform: skewX(-43deg);
+  transform: skewX(43deg);
   object-fit: none;
   object-position: 5px 10%;
-} */
+}
 
 .road {
   position: absolute;
@@ -252,24 +252,24 @@
   position: absolute;
   top: 49.5%;
   left: 0;
-  width: 93%;
+  width: 94%;
   height: 16px;
   background-color: rgb(250, 87, 37);
 }
 .rod {
   position: absolute;
-  top: 49.5%;
-  left: 92.6%;
+  top: 50.5%;
+  left: 92.7%;
   width: 1.3%;
-  height: 133px;
+  height: 134px;
   background-color: rgb(250, 87, 37);
 }
 #rod1 {
   position: absolute;
   top: 49.5%;
-  left: 95.6%;
+  left: 96%;
   width: 1.3%;
-  height: 133px;
+  height: 25%;
   background-color: rgb(250, 87, 37);
   transform: skewX(29deg);
 }
