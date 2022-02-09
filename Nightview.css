@@ -37,6 +37,9 @@
   box-shadow: 25px 10px 0 0 white;
   animation: mymove 5s infinite;
 }
+.moon:hover {
+  transform: scale(1.5);
+}
 
 @keyframes mymove {
   50% {
